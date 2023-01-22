@@ -8,7 +8,7 @@ https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
 ## Installation
 
 ```bash
-https://github.com/byinarie/S3Tool.git
+git clone https://github.com/byinarie/S3Tool.git
 pip3 install -r requirements.txt
 ```
 
