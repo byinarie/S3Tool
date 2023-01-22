@@ -10,6 +10,10 @@ https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
 ```bash
 git clone https://github.com/byinarie/S3Tool.git
 pip3 install -r requirements.txt
+
+or
+
+pip3 install boto3 && pip3 install botocore && pip3 install click
 ```
 
 ## Currently checks for
