@@ -17,15 +17,15 @@ pip3 install boto3 && pip3 install botocore && pip3 install click
 ```
 
 ## Currently checks for
-Versioning
-Access Logging
-Encryption
-MFA Delete
-Object Level Replication
+*Versioning
+*Access Logging
+*Encryption
+*MFA Delete
+*Object Level Replication
 
 ## TODO
-Bucket Policy
-Public Access
+*Bucket Policy
+*Public Access
 
 ## Usage/Examples
 
